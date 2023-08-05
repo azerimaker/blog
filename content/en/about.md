@@ -37,4 +37,18 @@ editPost:
 ---
 
 
-## This is Orkhan!
+## Orkhan Amiraslan(ov)
+
+I’m one of those guys who is born to be an engineer. Ever since I know myself I’ve been fascinated by anything technical and electronics in particular. I’m a full time tinkerer, who’s specialized in electronics and PCB design. I’m also passionate about renewable energy, high-power energy storage systems, low-power sensor nodes and everything related to embedded systems.
+
+
+Blog
+
+This blog is the main place for my polished (sometimes unpolished too) projects and I’m planning to use it to document and share some of the the projects that I’m currently working on. I’d really appreciate any feedback, comments, suggestions and critics.
+
+```
+Copyrights
+
+Unless mentioned otherwise everything on this blog is published under Creative Commons Attribution-ShareAlike 4.0 International (hardware) and GNU GPLv3 (software). So feel free to use and adapt anything you find here as long as you give credits to the original authors (attribution) and again share your design (share alike).
+
+```

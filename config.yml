@@ -14,8 +14,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true
+#defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
 
 
 menu:
